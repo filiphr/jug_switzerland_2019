@@ -10,5 +10,6 @@
     <modules>
 
         <module>simple-mapper</module>
+        <module>complex-mapper</module>
     </modules>
 </project>
